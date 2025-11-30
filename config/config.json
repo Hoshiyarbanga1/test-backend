@@ -1,0 +1,10 @@
+﻿{
+  "development": {
+    "username": "onboarding",
+    "password": "",
+    "database": "mydb",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
